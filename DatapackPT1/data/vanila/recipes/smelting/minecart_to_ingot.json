@@ -1,0 +1,8 @@
+{
+	"type":"smelting",
+	"ingredient":{
+		"item":"minecraft:minecart"
+	},
+	"result":"minecraft:iron_ingot",
+	"experience":1
+}
