@@ -1,0 +1,20 @@
+{
+	"type":"crafting_shaped",
+	"category":"equipment",
+	"pattern":[
+		"ss",
+		" #",
+		" #"
+	],
+	"key":{
+		"#":{
+			"item":"minecraft:stick"
+		},
+		"s":{
+			"tag":"vanila:stone_crafting"
+		}
+	},
+	"result":{
+		"id":"minecraft:stone_hoe"
+	}
+}
